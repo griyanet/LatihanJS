@@ -2,7 +2,7 @@
 
 ## JavaScript Beginner lesson to create 20 projects 
 
-### Quote Generator
+### Quote Generator - https://github.com/griyanet/LatihanJS/tree/main/quote-generator
 - to display quote fetch from API
 - using Google font
 - using Font Awesome for the icon
