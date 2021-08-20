@@ -1,6 +1,6 @@
 # LatihanJS
 
-## JavaScript Beginner lesson to create 20 projects 
+## JavaScript Beginner to create 20 projects 
 
 ### [Link Quote Generator](https://github.com/griyanet/LatihanJS/tree/main/quote-generator)
 - to display quote fetch from API
